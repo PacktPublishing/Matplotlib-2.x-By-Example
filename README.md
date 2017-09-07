@@ -36,11 +36,11 @@ the chapters, but readers can refer to the official documentation pages for more
 details.
 
 ## Related Products
-* [Buildbox 2.x Game Development](https://www.packtpub.com/game-development/buildbox-2x-game-development?utm_source=github&utm_medium=repository&utm_campaign=9781786460301)
+* [matplotlib Plotting Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/matplotlib-plotting-cookbook)
 
-* [Unreal Engine 4.X By Example](https://www.packtpub.com/game-development/unreal-engine-4x-example?utm_source=github&utm_medium=repository&utm_campaign=9781785885532)
+* [Mastering matplotlib](https://www.packtpub.com/big-data-and-business-intelligence/mastering-matplotlib)
 
-* [Unity 4.x Game Development by Example: Beginner's Guide](https://www.packtpub.com/game-development/unity-4x-game-development-example-beginners-guide?utm_source=github&utm_medium=repository&utm_campaign=9781849695268)
+* [Matplotlib for Python Developers](https://www.packtpub.com/application-development/matplotlib-python-developers)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
