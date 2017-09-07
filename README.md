@@ -14,8 +14,8 @@ The code will look like the following:
 ```
 evens = []
 with open as f:
- for line in f.readlines():
- evens.append(line.split()[1])
+    for line in f.readlines():
+        evens.append(line.split()[1])
 ```
 
 These are the prerequisites for this book:
