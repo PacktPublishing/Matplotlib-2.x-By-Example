@@ -1,0 +1,2644 @@
+Age 17 (1)
+Peace 2014
+Malala Yousafzai
+
+Age 25 (1)
+Physics 1915
+Lawrence Bragg
+
+Age 31 (4)
+Physics 1932
+Werner Heisenberg
+
+Physics 1933
+Paul A.M. Dirac
+
+Physics 1936
+Carl D. Anderson
+
+Physics 1957
+Tsung-Dao Lee
+
+Age 32 (4)
+Physics 1961
+Rudolf Mössbauer
+
+Physiology or Medicine 1923
+Frederick G. Banting
+
+Peace 1976
+Mairead Corrigan
+Peace 2011
+Tawakkol Karman
+
+Age 33 (4)
+Physics 1973
+Brian D. Josephson
+
+Physiology or Medicine 1958
+Joshua Lederberg
+
+Peace 1976
+Betty Williams
+Peace 1992
+Rigoberta Menchú Tum
+
+Age 34 (2)
+Physics 1960
+Donald A. Glaser
+
+Physiology or Medicine 1962
+James Watson
+
+Age 35 (6)
+Physics 1909
+Guglielmo Marconi
+
+Physics 1914
+Max von Laue
+
+Physics 1927
+Arthur H. Compton
+
+Physics 1957
+Chen Ning Yang
+
+Chemistry 1935
+Frédéric Joliot
+
+Peace 1964
+Martin Luther King Jr.
+Age 36 (4)
+Physics 1903
+Marie Curie
+
+Physics 2010
+Konstantin Novoselov
+
+Chemistry 1939
+Adolf Butenandt
+
+Physiology or Medicine 1922
+Archibald V. Hill
+
+Age 37 (7)
+Physics 1902
+Pieter Zeeman
+
+Physics 1922
+Niels Bohr
+
+Physics 1929
+Louis de Broglie
+
+Physics 1938
+Enrico Fermi
+
+Physics 1987
+J. Georg Bednorz
+
+Chemistry 1908
+Ernest Rutherford
+
+Physiology or Medicine 1975
+David Baltimore
+
+Age 38 (10)
+Physics 1924
+Manne Siegbahn
+
+Physics 1925
+Gustav Hertz
+
+Physics 1939
+Ernest Lawrence
+
+Chemistry 1935
+Irène Joliot-Curie
+
+Chemistry 1938
+Richard Kuhn
+
+Chemistry 1952
+Richard L.M. Synge
+
+Physiology or Medicine 1914
+Robert Bárány
+
+Physiology or Medicine 1922
+Otto Meyerhof
+
+Physiology or Medicine 1954
+Frederick C. Robbins
+
+Physiology or Medicine 1984
+Georges J.F. Köhler
+
+Age 39 (7)
+Physics 1959
+Owen Chamberlain
+
+Physics 1986
+Gerd Binnig
+
+Chemistry 1951
+Glenn T. Seaborg
+
+Physiology or Medicine 1912
+Alexis Carrel
+
+Physiology or Medicine 1945
+Ernst B. Chain
+
+Physiology or Medicine 1954
+Thomas H. Weller
+
+Peace 2011
+Leymah Gbowee
+
+Age 40 (9)
+Physics 1917
+Charles Glover Barkla
+
+Physics 1952
+E. M. Purcell
+
+Physics 1969
+Murray Gell-Mann
+
+Physics 1976
+Samuel C.C. Ting
+
+Physics 2001
+Eric Cornell
+
+Chemistry 1958
+Frederick Sanger
+
+Chemistry 1967
+Manfred Eigen
+
+Chemistry 1988
+Hartmut Michel
+
+Peace 1983
+Lech Walesa
+Age 41 (6)
+Physics 1972
+Robert Schrieffer
+
+Chemistry 1912
+Victor Grignard
+
+Chemistry 1934
+Harold C. Urey
+
+Physiology or Medicine 1959
+Arthur Kornberg
+
+Physiology or Medicine 1968
+Marshall W. Nirenberg
+
+Physiology or Medicine 1975
+Howard M. Temin
+
+Age 42 (15)
+Physics 1921
+Albert Einstein
+
+Physics 1930
+Sir Chandrasekhara Venkata Raman
+
+Physics 1949
+Hideki Yukawa
+
+Physics 1955
+Willis E. Lamb
+
+Physics 1964
+Nicolay G. Basov
+
+Physics 1972
+Leon N. Cooper
+
+Physics 1978
+Robert Woodrow Wilson
+
+Physics 1985
+Klaus von Klitzing
+
+Physics 2011
+Adam G. Riess
+
+Chemistry 1926
+The Svedberg
+
+Chemistry 1946
+Wendell M. Stanley
+
+Chemistry 1952
+Archer J.P. Martin
+
+Chemistry 1989
+Thomas R. Cech
+
+Physiology or Medicine 1934
+William P. Murphy
+
+Literature 1907
+Rudyard Kipling
+
+Age 43 (9)
+Physics 1905
+Philipp Lenard
+
+Physics 1912
+Gustaf Dalén
+
+Physics 1925
+James Franck
+
+Physics 1993
+Russell A. Hulse
+
+Chemistry 1915
+Richard Willstätter
+
+Chemistry 2002
+Koichi Tanaka
+
+Physiology or Medicine 1903
+Niels Ryberg Finsen
+
+Physiology or Medicine 1932
+Edgar Adrian
+
+Physiology or Medicine 1972
+Gerald M. Edelman
+
+Age 44 (15)
+Physics 1903
+Pierre Curie
+
+Physics 1935
+James Chadwick
+
+Physics 1955
+Polykarp Kusch
+
+Physics 1973
+Ivar Giaever
+
+Physics 2001
+Wolfgang Ketterle
+
+Physics 2011
+Brian P. Schmidt
+
+Chemistry 1903
+Svante Arrhenius
+
+Chemistry 1911
+Marie Curie
+
+Chemistry 1921
+Frederick Soddy
+
+Chemistry 1951
+Edwin M. McMillan
+
+Chemistry 1981
+Roald Hoffmann
+
+Physiology or Medicine 1937
+Albert Szent-Györgyi
+
+Physiology or Medicine 1939
+Gerhard Domagk
+
+Physiology or Medicine 1985
+Michael S. Brown
+
+Literature 1957
+Albert Camus
+
+Age 45 (13)
+Physics 1919
+Johannes Stark
+
+Physics 1937
+George Paget Thomson
+
+Physics 1945
+Wolfgang Pauli
+
+Physics 1976
+Burton Richter
+
+Physics 1978
+Arno Penzias
+
+Chemistry 1922
+Francis W. Aston
+
+Chemistry 1962
+John C. Kendrew
+
+Chemistry 1988
+Johann Deisenhofer
+
+Physiology or Medicine 1902
+Ronald Ross
+
+Physiology or Medicine 1960
+Peter Medawar
+
+Physiology or Medicine 1965
+François Jacob
+
+Physiology or Medicine 1985
+Joseph L. Goldstein
+
+Literature 1930
+Sinclair Lewis
+
+Age 46 (22)
+Physics 1933
+Erwin Schrödinger
+
+Physics 1944
+Isidor Isaac Rabi
+
+Physics 1956
+William B. Shockley
+
+Physics 1961
+Robert Hofstadter
+
+Physics 1979
+Steven Weinberg
+
+Physics 1982
+Kenneth G. Wilson
+
+Chemistry 1914
+Theodore W. Richards
+
+Chemistry 1948
+Arne Tiselius
+
+Physiology or Medicine 1920
+August Krogh
+
+Physiology or Medicine 1938
+Corneille Heymans
+
+Physiology or Medicine 1962
+Francis Crick
+
+Physiology or Medicine 1962
+Maurice Wilkins
+
+Physiology or Medicine 1963
+Andrew Huxley
+
+Physiology or Medicine 1968
+Robert W. Holley
+
+Physiology or Medicine 1968
+H. Gobind Khorana
+
+Physiology or Medicine 2006
+Craig C. Mello
+
+Literature 1928
+Sigrid Undset
+
+Literature 1938
+Pearl Buck
+
+Peace 1935
+Carl von Ossietzky
+Peace 1950
+Ralph Bunche
+Peace 1987
+Oscar Arias Sánchez
+
+Peace 1991
+Aung San Suu Kyi
+
+Age 47 (21)
+Physics 1911
+Wilhelm Wien
+
+Physics 1950
+Cecil Powell
+
+Physics 1952
+Felix Bloch
+
+Physics 1965
+Julian Schwinger
+
+Physics 1965
+Richard P. Feynman
+
+Physics 1979
+Sheldon Glashow
+
+Chemistry 1907
+Eduard Buchner
+
+Chemistry 1913
+Alfred Werner
+
+Chemistry 1931
+Friedrich Bergius
+
+Chemistry 1967
+George Porter
+
+Chemistry 2003
+Roderick MacKinnon
+
+Physiology or Medicine 1901
+Emil von Behring
+
+Physiology or Medicine 1923
+John Macleod
+
+Physiology or Medicine 1945
+Sir Howard Florey
+
+Physiology or Medicine 1978
+Hamilton O. Smith
+
+Physiology or Medicine 1991
+Erwin Neher
+
+Physiology or Medicine 2006
+Andrew Z. Fire
+
+Literature 1987
+Joseph Brodsky
+
+Peace 1911
+Alfred Fried
+Peace 1996
+José Ramos-Horta
+
+Peace 1997
+Jody Williams
+
+Age 48 (23)
+Physics 1951
+Ernest T.S. Walton
+
+Physics 1956
+John Bardeen
+
+Physics 1964
+Aleksandr M. Prokhorov
+
+Physics 1973
+Leo Esaki
+
+Physics 1998
+Robert B. Laughlin
+
+Chemistry 1937
+Paul Karrer
+
+Chemistry 1950
+Kurt Alder
+
+Chemistry 1962
+Max F. Perutz
+
+Chemistry 1965
+Robert B. Woodward
+
+Chemistry 1980
+Walter Gilbert
+
+Chemistry 1987
+Jean-Marie Lehn
+
+Physiology or Medicine 1931
+Otto Warburg
+
+Physiology or Medicine 1943
+Henrik Dam
+
+Physiology or Medicine 1982
+Bengt I. Samuelsson
+
+Physiology or Medicine 1987
+Susumu Tonegawa
+
+Physiology or Medicine 1995
+Eric F. Wieschaus
+
+Physiology or Medicine 2009
+Carol W. Greider
+
+Literature 1936
+Eugene O'Neill
+
+Peace 1906
+Theodore Roosevelt
+Peace 1926
+Gustav Stresemann
+Peace 1958
+Georges Pire
+Peace 1996
+Carlos Filipe Ximenes Belo
+
+Peace 2009
+Barack H. Obama
+
+Age 49 (23)
+Physics 1902
+Hendrik A. Lorentz
+
+Physics 1928
+Owen Willans Richardson
+
+Physics 1964
+Charles H. Townes
+
+Physics 1975
+Ben R. Mottelson
+
+Physics 1980
+James Cronin
+
+Physics 1997
+Steven Chu
+
+Physics 1997
+William D. Phillips
+
+Physics 1998
+Horst L. Störmer
+
+Chemistry 1901
+Jacobus H. van 't Hoff
+
+Chemistry 1930
+Hans Fischer
+
+Chemistry 1993
+Kary B. Mullis
+
+Physiology or Medicine 1911
+Allvar Gullstrand
+
+Physiology or Medicine 1919
+Jules Bordet
+
+Physiology or Medicine 1934
+George R. Minot
+
+Physiology or Medicine 1948
+Paul Müller
+
+Physiology or Medicine 1958
+Edward Tatum
+
+Physiology or Medicine 1963
+Alan Hodgkin
+
+Physiology or Medicine 1978
+Werner Arber
+
+Physiology or Medicine 1991
+Bert Sakmann
+
+Physiology or Medicine 1993
+Phillip A. Sharp
+
+Literature 1911
+Maurice Maeterlinck
+
+Literature 1915
+Romain Rolland
+
+Peace 1980
+Adolfo Pérez Esquivel
+Age 50 (21)
+Physics 1906
+J.J. Thomson
+
+Physics 1958
+Il´ja M. Frank
+
+Physics 1974
+Antony Hewish
+
+Physics 1984
+Carlo Rubbia
+
+Physics 2001
+Carl Wieman
+
+Chemistry 1902
+Emil Fischer
+
+Chemistry 1918
+Fritz Haber
+
+Chemistry 1927
+Heinrich Wieland
+
+Chemistry 1945
+Artturi Virtanen
+
+Chemistry 1957
+Lord Todd
+
+Chemistry 1961
+Melvin Calvin
+
+Chemistry 1986
+Yuan T. Lee
+
+Chemistry 1989
+Sidney Altman
+
+Physiology or Medicine 1943
+Edward A. Doisy
+
+Physiology or Medicine 1957
+Daniel Bovet
+
+Physiology or Medicine 1978
+Daniel Nathans
+
+Physiology or Medicine 1989
+Harold E. Varmus
+
+Physiology or Medicine 1993
+Richard J. Roberts
+
+Physiology or Medicine 2012
+Shinya Yamanaka
+
+Literature 1912
+Gerhart Hauptmann
+
+Peace 1973
+Henry Kissinger
+Age 51 (14)
+Physics 1903
+Henri Becquerel
+
+Physics 1948
+Patrick M.S. Blackett
+
+Physics 1996
+Douglas D. Osheroff
+
+Chemistry 1932
+Irving Langmuir
+
+Chemistry 1969
+Derek Barton
+
+Chemistry 1988
+Robert Huber
+
+Physiology or Medicine 1947
+Carl Cori
+
+Physiology or Medicine 1947
+Gerty Cori
+
+Physiology or Medicine 1976
+Baruch S. Blumberg
+
+Physiology or Medicine 1977
+Andrew V. Schally
+
+Physiology or Medicine 2014
+May-Britt Moser
+
+Literature 1909
+Selma Lagerlöf
+
+Literature 1939
+Frans Eemil Sillanpää
+
+Economics 1972
+Kenneth J. Arrow
+
+Age 52 (23)
+Physics 1993
+Joseph H. Taylor Jr.
+
+Physics 2010
+Andre Geim
+
+Physics 2011
+Saul Perlmutter
+
+Chemistry 1904
+Sir William Ramsay
+
+Chemistry 1928
+Adolf Windaus
+
+Chemistry 1936
+Peter Debye
+
+Chemistry 1939
+Leopold Ruzicka
+
+Chemistry 1960
+Willard F. Libby
+
+Chemistry 1973
+Geoffrey Wilkinson
+
+Chemistry 1995
+Mario J. Molina
+
+Chemistry 2014
+Stefan W. Hell
+
+Physiology or Medicine 1951
+Max Theiler
+
+Physiology or Medicine 1955
+Hugo Theorell
+
+Physiology or Medicine 1956
+Werner Forssmann
+
+Physiology or Medicine 1964
+Konrad Bloch
+
+Physiology or Medicine 1996
+Rolf M. Zinkernagel
+
+Physiology or Medicine 2001
+Sir Paul Nurse
+
+Physiology or Medicine 2014
+Edvard I. Moser
+
+Literature 1913
+Rabindranath Tagore
+
+Literature 1949
+William Faulkner
+
+Literature 1970
+Alexandr Solzhenitsyn
+
+Literature 1986
+Wole Soyinka
+
+Peace 1921
+Christian Lange
+Age 53 (21)
+Physics 1915
+William Bragg
+
+Physics 1936
+Victor F. Hess
+
+Physics 1975
+Aage N. Bohr
+
+Physics 1979
+Abdus Salam
+
+Physics 1986
+Heinrich Rohrer
+
+Physics 1999
+Gerardus 't Hooft
+
+Physics 2004
+Frank Wilczek
+
+Chemistry 1954
+Linus Pauling
+
+Chemistry 1996
+Richard E. Smalley
+
+Chemistry 1999
+Ahmed Zewail
+
+Physiology or Medicine 1950
+Tadeus Reichstein
+
+Physiology or Medicine 1953
+Hans Krebs
+
+Physiology or Medicine 1964
+Feodor Lynen
+
+Physiology or Medicine 1976
+D. Carleton Gajdusek
+
+Physiology or Medicine 1977
+Roger Guillemin
+
+Physiology or Medicine 1989
+J. Michael Bishop
+
+Physiology or Medicine 1994
+Alfred G. Gilman
+
+Physiology or Medicine 1995
+Christiane Nüsslein-Volhard
+
+Literature 1955
+Halldór Laxness
+
+Peace 1984
+Desmond Tutu
+Economics 1997
+Robert C. Merton
+
+Age 54 (29)
+Physics 1951
+John Cockcroft
+
+Physics 1956
+Walter H. Brattain
+
+Physics 1958
+Pavel A. Cherenkov
+
+Physics 1959
+Emilio Segrè
+
+Physics 1962
+Lev Landau
+
+Physics 1977
+Philip W. Anderson
+
+Physics 2014
+Hiroshi Amano
+
+Chemistry 1906
+Henri Moissan
+
+Chemistry 1923
+Fritz Pregl
+
+Chemistry 1937
+Norman Haworth
+
+Chemistry 1949
+William F. Giauque
+
+Chemistry 1955
+Vincent du Vigneaud
+
+Chemistry 1964
+Dorothy Crowfoot Hodgkin
+
+Chemistry 1980
+Paul Berg
+
+Chemistry 1986
+Dudley R. Herschbach
+
+Chemistry 2003
+Peter Agre
+
+Chemistry 2014
+Eric Betzig
+
+Physiology or Medicine 1906
+Santiago Ramón y Cajal
+
+Physiology or Medicine 1908
+Paul Ehrlich
+
+Physiology or Medicine 1950
+Philip S. Hench
+
+Physiology or Medicine 1953
+Fritz Lipmann
+
+Physiology or Medicine 1959
+Severo Ochoa
+
+Physiology or Medicine 2005
+Barry J. Marshall
+
+Physiology or Medicine 2011
+Bruce A. Beutler
+
+Literature 1929
+Thomas Mann
+
+Literature 2006
+Orhan Pamuk
+
+Peace 1975
+Andrei Sakharov
+Peace 1989
+The 14th Dalai Lama
+Peace 1998
+David Trimble
+
+Age 55 (23)
+Physics 1907
+Albert A. Michelson
+
+Physics 1923
+Robert A. Millikan
+
+Physics 1943
+Otto Stern
+
+Physics 1947
+Edward V. Appleton
+
+Physics 2004
+H. David Politzer
+
+Chemistry 1946
+John H. Northrop
+
+Chemistry 1973
+Ernst Otto Fischer
+
+Physiology or Medicine 1904
+Ivan Pavlov
+
+Physiology or Medicine 1958
+George Beadle
+
+Physiology or Medicine 1965
+Jacques Monod
+
+Physiology or Medicine 1972
+Rodney R. Porter
+
+Physiology or Medicine 1979
+Allan M. Cormack
+
+Physiology or Medicine 1981
+David H. Hubel
+
+Physiology or Medicine 1982
+John R. Vane
+
+Physiology or Medicine 1997
+Stanley B. Prusiner
+
+Physiology or Medicine 2002
+H. Robert Horvitz
+
+Literature 1926
+Grazia Deledda
+
+Literature 1954
+Ernest Hemingway
+
+Literature 1972
+Heinrich Böll
+
+Literature 1982
+Gabriel García Márquez
+
+Peace 2010
+Liu Xiaobo
+
+Economics 1970
+Paul A. Samuelson
+
+Economics 2008
+Paul Krugman
+
+Age 56 (32)
+Physics 1901
+Wilhelm Conrad Röntgen
+
+Physics 1926
+Jean Baptiste Perrin
+
+Physics 1937
+Clinton Davisson
+
+Physics 1963
+J. Hans D. Jensen
+
+Physics 1974
+Martin Ryle
+
+Physics 1988
+Melvin Schwartz
+
+Physics 2015
+Takaaki Kajita
+
+Chemistry 1909
+Wilhelm Ostwald
+
+Chemistry 1920
+Walther Nernst
+
+Chemistry 1929
+Hans von Euler-Chelpin
+
+Chemistry 1972
+Christian Anfinsen
+
+Chemistry 1982
+Aaron Klug
+
+Chemistry 1997
+John E. Walker
+
+Chemistry 2008
+Roger Y. Tsien
+
+Physiology or Medicine 1934
+George H. Whipple
+
+Physiology or Medicine 1944
+Herbert S. Gasser
+
+Physiology or Medicine 1946
+Hermann J. Muller
+
+Physiology or Medicine 1971
+Earl W. Sutherland, Jr.
+
+Physiology or Medicine 1977
+Rosalyn Yalow
+
+Physiology or Medicine 1996
+Peter C. Doherty
+
+Literature 1922
+Jacinto Benavente
+
+Literature 1937
+Roger Martin du Gard
+
+Literature 1945
+Gabriela Mistral
+
+Literature 1995
+Seamus Heaney
+
+Literature 2009
+Herta Müller
+
+Peace 1961
+Dag Hammarskjöld
+Peace 1970
+Norman Borlaug
+Peace 2003
+Shirin Ebadi
+
+Economics 1990
+William F. Sharpe
+
+Economics 1997
+Myron Scholes
+
+Economics 2000
+James J. Heckman
+
+Economics 2007
+Roger B. Myerson
+
+Age 57 (25)
+Physics 1963
+Maria Goeppert Mayer
+
+Physics 1968
+Luis Alvarez
+
+Physics 1980
+Val Fitch
+
+Chemistry 1931
+Carl Bosch
+
+Chemistry 1976
+William Lipscomb
+
+Chemistry 1986
+John C. Polanyi
+
+Chemistry 1996
+Sir Harold Kroto
+
+Chemistry 2004
+Aaron Ciechanover
+
+Chemistry 2009
+Venkatraman Ramakrishnan
+
+Chemistry 2012
+Brian Kobilka
+
+Physiology or Medicine 1910
+Albrecht Kossel
+
+Physiology or Medicine 1954
+John F. Enders
+
+Physiology or Medicine 1969
+Salvador E. Luria
+
+Physiology or Medicine 1974
+Christian de Duve
+
+Physiology or Medicine 1981
+Torsten N. Wiesel
+
+Physiology or Medicine 1984
+César Milstein
+
+Physiology or Medicine 1998
+Louis J. Ignarro
+
+Physiology or Medicine 2004
+Linda B. Buck
+
+Physiology or Medicine 2009
+Jack W. Szostak
+
+Literature 1916
+Verner von Heidenstam
+
+Literature 1924
+Wladyslaw Reymont
+
+Literature 2012
+Mo Yan
+
+Peace 1909
+Paul Henri d'Estournelles de Constant
+Peace 1993
+F.W. de Klerk
+
+Economics 2007
+Eric S. Maskin
+
+Age 58 (20)
+Physics 1927
+C.T.R. Wilson
+
+Physics 1975
+James Rainwater
+
+Chemistry 1912
+Paul Sabatier
+
+Chemistry 1943
+George de Hevesy
+
+Chemistry 1975
+John Cornforth
+
+Chemistry 1978
+Peter Mitchell
+
+Chemistry 1991
+Richard R. Ernst
+
+Physiology or Medicine 1970
+Julius Axelrod
+
+Physiology or Medicine 2001
+Tim Hunt
+
+Physiology or Medicine 2004
+Richard Axel
+
+Physiology or Medicine 2013
+Thomas C. Südhof
+
+Literature 1923
+William Butler Yeats
+
+Literature 1959
+Salvatore Quasimodo
+
+Literature 2004
+Elfriede Jelinek
+
+Peace 1936
+Carlos Saavedra Lamas
+Peace 1971
+Willy Brandt
+Peace 1986
+Elie Wiesel
+Economics 1995
+Robert E. Lucas Jr.
+
+Economics 2001
+A. Michael Spence
+
+Economics 2001
+Joseph E. Stiglitz
+
+Age 59 (20)
+Physics 1909
+Ferdinand Braun
+
+Physics 1920
+Charles Edouard Guillaume
+
+Physics 1965
+Sin-Itiro Tomonaga
+
+Physics 1984
+Simon van der Meer
+
+Physics 1991
+Pierre-Gilles de Gennes
+
+Physics 1996
+Robert C. Richardson
+
+Physics 1998
+Daniel C. Tsui
+
+Chemistry 1946
+James B. Sumner
+
+Chemistry 1956
+Sir Cyril Hinshelwood
+
+Chemistry 1972
+Stanford Moore
+
+Chemistry 2006
+Roger D. Kornberg
+
+Physiology or Medicine 1926
+Johannes Fibiger
+
+Physiology or Medicine 1970
+Sir Bernard Katz
+
+Literature 1905
+Henryk Sienkiewicz
+
+Literature 1964
+Jean-Paul Sartre
+
+Literature 1994
+Kenzaburo Oe
+
+Peace 1902
+Albert Gobat
+Peace 1913
+Henri La Fontaine
+Peace 1990
+Mikhail Gorbachev
+
+Peace 2007
+Al Gore
+
+Age 60 (31)
+Physics 1913
+Heike Kamerlingh Onnes
+
+Physics 1918
+Max Planck
+
+Physics 1981
+Arthur L. Schawlow
+
+Physics 1987
+K. Alex Müller
+
+Physics 1990
+Jerome I. Friedman
+
+Physics 2006
+John C. Mather
+
+Physics 2014
+Shuji Nakamura
+
+Chemistry 1925
+Richard Zsigmondy
+
+Chemistry 1956
+Nikolay Semenov
+
+Chemistry 1963
+Giulio Natta
+
+Chemistry 1977
+Ilya Prigogine
+
+Chemistry 2001
+Barry Sharpless
+
+Chemistry 2005
+Richard R. Schrock
+
+Physiology or Medicine 1947
+Bernardo Houssay
+
+Physiology or Medicine 1963
+Sir John Eccles
+
+Physiology or Medicine 1979
+Godfrey N. Hounsfield
+
+Physiology or Medicine 1980
+Baruj Benacerraf
+
+Physiology or Medicine 2002
+John E. Sulston
+
+Literature 1917
+Karl Gjellerup
+
+Literature 1917
+Henrik Pontoppidan
+
+Literature 1948
+T.S. Eliot
+
+Literature 1951
+Pär Lagerkvist
+
+Literature 1962
+John Steinbeck
+
+Literature 1965
+Mikhail Sholokhov
+
+Literature 2000
+Gao Xingjian
+
+Peace 1925
+Charles G. Dawes
+Peace 1957
+Lester Bowles Pearson
+Peace 1978
+Anwar al-Sadat
+Peace 2014
+Kailash Satyarthi
+
+Economics 1980
+Lawrence R. Klein
+
+Economics 1996
+James A. Mirrlees
+
+Age 61 (33)
+Physics 1963
+Eugene Wigner
+
+Physics 1967
+Hans Bethe
+
+Physics 1981
+Nicolaas Bloembergen
+
+Physics 1990
+Richard E. Taylor
+
+Physics 2006
+George F. Smoot
+
+Chemistry 1947
+Sir Robert Robinson
+
+Chemistry 1972
+William H. Stein
+
+Chemistry 1993
+Michael Smith
+
+Chemistry 2008
+Martin Chalfie
+
+Chemistry 2014
+William E. Moerner
+
+Physiology or Medicine 1936
+Sir Henry Dale
+
+Physiology or Medicine 1956
+André F. Cournand
+
+Physiology or Medicine 1956
+Dickinson W. Richards
+
+Physiology or Medicine 1960
+Sir Frank Macfarlane Burnet
+
+Physiology or Medicine 1967
+George Wald
+
+Physiology or Medicine 1969
+Alfred D. Hershey
+
+Physiology or Medicine 1975
+Renato Dulbecco
+
+Physiology or Medicine 2008
+Françoise Barré-Sinoussi
+
+Physiology or Medicine 2009
+Elizabeth H. Blackburn
+
+Literature 1920
+Knut Hamsun
+
+Literature 1973
+Patrick White
+
+Literature 1976
+Saul Bellow
+
+Peace 1921
+Hjalmar Branting
+Peace 1922
+Fridtjof Nansen
+Peace 1933
+Sir Norman Angell
+Peace 1962
+Linus Pauling
+Peace 1998
+John Hume
+
+Economics 2001
+George A. Akerlof
+
+Economics 2003
+Robert F. Engle III
+
+Economics 2004
+Finn E. Kydland
+
+Economics 2012
+Alvin E. Roth
+
+Economics 2013
+Lars Peter Hansen
+
+Economics 2014
+Jean Tirole
+
+Age 62 (24)
+Physics 1904
+Lord Rayleigh
+
+Physics 1970
+Hannes Alfvén
+
+Chemistry 1980
+Frederick Sanger
+
+Chemistry 1990
+Elias James Corey
+
+Chemistry 1995
+Paul J. Crutzen
+
+Physiology or Medicine 1905
+Robert Koch
+
+Physiology or Medicine 1907
+Alphonse Laveran
+
+Physiology or Medicine 1928
+Charles Nicolle
+
+Physiology or Medicine 1930
+Karl Landsteiner
+
+Physiology or Medicine 1961
+Georg von Békésy
+
+Physiology or Medicine 1974
+George E. Palade
+
+Physiology or Medicine 1998
+Ferid Murad
+
+Physiology or Medicine 2001
+Leland Hartwell
+
+Literature 1901
+Sully Prudhomme
+
+Literature 1908
+Rudolf Eucken
+
+Literature 1992
+Derek Walcott
+
+Literature 1993
+Toni Morrison
+
+Peace 1905
+Bertha von Suttner
+Peace 1925
+Sir Austen Chamberlain
+Peace 1960
+Albert Lutuli
+Economics 1978
+Herbert Simon
+
+Economics 1983
+Gerard Debreu
+
+Economics 1992
+Gary Becker
+
+Economics 2010
+Christopher A. Pissarides
+
+Age 63 (32)
+Physics 1908
+Gabriel Lippmann
+
+Physics 1954
+Walther Bothe
+
+Physics 1958
+Igor Y. Tamm
+
+Physics 1981
+Kai M. Siegbahn
+
+Physics 2004
+David J. Gross
+
+Chemistry 1910
+Otto Wallach
+
+Chemistry 1981
+Kenichi Fukui
+
+Chemistry 1984
+Bruce Merrifield
+
+Chemistry 1996
+Robert F. Curl Jr.
+
+Chemistry 2001
+Ryoji Noyori
+
+Chemistry 2005
+Robert H. Grubbs
+
+Physiology or Medicine 1906
+Camillo Golgi
+
+Physiology or Medicine 1908
+Ilya Mechnikov
+
+Physiology or Medicine 1913
+Charles Richet
+
+Physiology or Medicine 1936
+Otto Loewi
+
+Physiology or Medicine 1965
+André Lwoff
+
+Physiology or Medicine 1969
+Max Delbrück
+
+Physiology or Medicine 1999
+Günter Blobel
+
+Physiology or Medicine 2013
+James E. Rothman
+
+Literature 1933
+Ivan Bunin
+
+Literature 1963
+Giorgos Seferis
+
+Literature 1969
+Samuel Beckett
+
+Literature 2003
+J. M. Coetzee
+
+Peace 1919
+Woodrow Wilson
+Peace 1973
+Le Duc Tho
+Peace 2001
+Kofi Annan
+
+Peace 2005
+Mohamed ElBaradei
+
+Economics 1975
+Leonid Vitaliyevich Kantorovich
+
+Economics 1981
+James Tobin
+
+Economics 1987
+Robert M. Solow
+
+Economics 1990
+Harry M. Markowitz
+
+Economics 2000
+Daniel L. McFadden
+
+Age 64 (30)
+Physics 1946
+Percy W. Bridgman
+
+Physics 1966
+Alfred Kastler
+
+Physics 1972
+John Bardeen
+
+Physics 1990
+Henry W. Kendall
+
+Physics 1997
+Claude Cohen-Tannoudji
+
+Physics 2005
+Theodor W. Hänsch
+
+Physics 2008
+Makoto Kobayashi
+
+Chemistry 1929
+Arthur Harden
+
+Chemistry 1970
+Luis Leloir
+
+Chemistry 1974
+Paul J. Flory
+
+Chemistry 2000
+Alan Heeger
+
+Chemistry 2000
+Hideki Shirakawa
+
+Chemistry 2002
+Kurt Wüthrich
+
+Physiology or Medicine 1924
+Willem Einthoven
+
+Physiology or Medicine 1945
+Sir Alexander Fleming
+
+Physiology or Medicine 1950
+Edward C. Kendall
+
+Physiology or Medicine 1952
+Selman A. Waksman
+
+Physiology or Medicine 1967
+Keffer Hartline
+
+Physiology or Medicine 1980
+Jean Dausset
+
+Physiology or Medicine 1986
+Stanley Cohen
+
+Physiology or Medicine 1988
+Sir James W. Black
+
+Peace 1907
+Louis Renault
+Peace 1908
+Klas Pontus Arnoldson
+Peace 1926
+Aristide Briand
+Peace 1930
+Nathan Söderblom
+Peace 2004
+Wangari Maathai
+
+Economics 1976
+Milton Friedman
+
+Economics 1979
+Sir Arthur Lewis
+
+Economics 1994
+Reinhard Selten
+
+Economics 2004
+Edward C. Prescott
+
+Age 65 (17)
+Physics 1953
+Frits Zernike
+
+Physics 1996
+David M. Lee
+
+Physics 2003
+Anthony J. Leggett
+
+Physics 2016
+F. Duncan M. Haldane
+
+Chemistry 1944
+Otto Hahn
+
+Chemistry 1963
+Karl Ziegler
+
+Chemistry 1968
+Lars Onsager
+
+Chemistry 2016
+Bernard L. Feringa
+
+Physiology or Medicine 1966
+Charles B. Huggins
+
+Physiology or Medicine 1970
+Ulf von Euler
+
+Physiology or Medicine 2013
+Randy W. Schekman
+
+Literature 1932
+John Galsworthy
+
+Peace 1978
+Menachem Begin
+Peace 1994
+Yasser Arafat
+
+Peace 2016
+Juan Manuel Santos
+
+Economics 1975
+Tjalling C. Koopmans
+
+Economics 1998
+Amartya Sen
+
+Age 66 (10)
+Physics 1970
+Louis Néel
+
+Physics 1988
+Leon M. Lederman
+
+Chemistry 2013
+Michael Levitt
+
+Physiology or Medicine 1935
+Hans Spemann
+
+Physiology or Medicine 1973
+Nikolaas Tinbergen
+
+Physiology or Medicine 1982
+Sune K. Bergström
+
+Physiology or Medicine 2007
+Sir Martin J. Evans
+
+Peace 2006
+Muhammad Yunus
+
+Economics 1969
+Jan Tinbergen
+
+Economics 1994
+John F. Nash Jr.
+
+Age 67 (23)
+Physics 1988
+Jack Steinberger
+
+Physics 1989
+Hans G. Dehmelt
+
+Chemistry 1971
+Gerhard Herzberg
+
+Chemistry 1979
+Herbert C. Brown
+
+Chemistry 1985
+Jerome Karle
+
+Chemistry 1994
+George A. Olah
+
+Chemistry 2004
+Avram Hershko
+
+Physiology or Medicine 1933
+Thomas H. Morgan
+
+Physiology or Medicine 1967
+Ragnar Granit
+
+Literature 1931
+Erik Axel Karlfeldt
+
+Literature 1934
+Luigi Pirandello
+
+Literature 1952
+François Mauriac
+
+Literature 1971
+Pablo Neruda
+
+Literature 2015
+Svetlana Alexievich
+
+Peace 1912
+Elihu Root
+Economics 1973
+Wassily Leontief
+
+Economics 1985
+Franco Modigliani
+
+Economics 1986
+James M. Buchanan Jr.
+
+Economics 1990
+Merton H. Miller
+
+Economics 1993
+Robert W. Fogel
+
+Economics 1999
+Robert Mundell
+
+Economics 2013
+Robert J. Shiller
+
+Economics 2016
+Bengt Holmström
+
+Age 68 (27)
+Physics 1992
+Georges Charpak
+
+Physics 1995
+Martin L. Perl
+
+Physics 1999
+Martinus J.G. Veltman
+
+Physics 2007
+Peter Grünberg
+
+Physics 2008
+Toshihide Maskawa
+
+Physics 2012
+Serge Haroche
+
+Physics 2012
+David J. Wineland
+
+Chemistry 1983
+Henry Taube
+
+Chemistry 1985
+Herbert A. Hauptman
+
+Chemistry 1987
+Donald J. Cram
+
+Chemistry 1995
+F. Sherwood Rowland
+
+Physiology or Medicine 1909
+Theodor Kocher
+
+Physiology or Medicine 1929
+Sir Frederick Hopkins
+
+Physiology or Medicine 1949
+Walter Hess
+
+Physiology or Medicine 1981
+Roger W. Sperry
+
+Physiology or Medicine 2005
+J. Robin Warren
+
+Physiology or Medicine 2011
+Ralph M. Steinman
+
+Literature 1927
+Henri Bergson
+
+Literature 1958
+Boris Pasternak
+
+Literature 1967
+Miguel Angel Asturias
+
+Literature 1979
+Odysseus Elytis
+
+Literature 1991
+Nadine Gordimer
+
+Literature 2008
+Jean-Marie Gustave Le Clézio
+
+Economics 1972
+John R. Hicks
+
+Economics 2002
+Daniel Kahneman
+
+Economics 2011
+Thomas J. Sargent
+
+Economics 2016
+Oliver Hart
+
+Age 69 (24)
+Physics 2007
+Albert Fert
+
+Chemistry 1959
+Jaroslav Heyrovsky
+
+Chemistry 1975
+Vladimir Prelog
+
+Chemistry 1992
+Rudolph A. Marcus
+
+Chemistry 2009
+Thomas A. Steitz
+
+Chemistry 2012
+Robert J. Lefkowitz
+
+Chemistry 2015
+Paul Modrich
+
+Chemistry 2015
+Aziz Sancar
+
+Physiology or Medicine 1994
+Martin Rodbell
+
+Literature 1925
+George Bernard Shaw
+
+Literature 1946
+Hermann Hesse
+
+Literature 1961
+Ivo Andric
+
+Literature 1968
+Yasunari Kawabata
+
+Literature 1980
+Czeslaw Milosz
+
+Literature 2001
+V. S. Naipaul
+
+Literature 2014
+Patrick Modiano
+
+Peace 1902
+Élie Ducommun
+Peace 1920
+Léon Bourgeois
+Peace 1927
+Ludwig Quidde
+Peace 1931
+Nicholas Murray Butler
+Peace 1949
+Lord Boyd Orr
+Peace 1979
+Mother Teresa
+Economics 2003
+Clive W.J. Granger
+
+Economics 2011
+Christopher A. Sims
+
+Age 70 (21)
+Physics 2000
+Zhores Alferov
+
+Chemistry 1905
+Adolf von Baeyer
+
+Chemistry 1966
+Robert S. Mulliken
+
+Chemistry 1967
+Ronald G.W. Norrish
+
+Chemistry 2009
+Ada E. Yonath
+
+Chemistry 2011
+Dan Shechtman
+
+Physiology or Medicine 1927
+Julius Wagner-Jauregg
+
+Physiology or Medicine 1944
+Joseph Erlanger
+
+Physiology or Medicine 1973
+Konrad Lorenz
+
+Physiology or Medicine 1988
+Gertrude B. Elion
+
+Physiology or Medicine 1990
+E. Donnall Thomas
+
+Physiology or Medicine 2003
+Sir Peter Mansfield
+
+Physiology or Medicine 2007
+Mario R. Capecchi
+
+Physiology or Medicine 2011
+Jules A. Hoffmann
+
+Literature 1974
+Harry Martinson
+
+Peace 1959
+Philip Noel-Baker
+Peace 1974
+Seán MacBride
+Economics 1971
+Simon Kuznets
+
+Economics 1977
+James E. Meade
+
+Economics 2010
+Peter A. Diamond
+
+Economics 2015
+Angus Deaton
+
+Age 71 (21)
+Physics 1971
+Dennis Gabor
+
+Physics 2002
+Riccardo Giacconi
+
+Physics 2005
+John L. Hall
+
+Chemistry 2007
+Gerhard Ertl
+
+Physiology or Medicine 1929
+Christiaan Eijkman
+
+Physiology or Medicine 1990
+Joseph E. Murray
+
+Physiology or Medicine 2000
+Eric Kandel
+
+Physiology or Medicine 2016
+Yoshinori Ohsumi
+
+Literature 1903
+Bjørnstjerne Bjørnson
+
+Literature 1906
+Giosuè Carducci
+
+Literature 1944
+Johannes V. Jensen
+
+Literature 1997
+Dario Fo
+
+Peace 1908
+Fredrik Bajer
+Peace 1931
+Jane Addams
+Peace 1934
+Arthur Henderson
+Peace 1982
+Alfonso García Robles
+Peace 1994
+Shimon Peres
+
+Peace 2008
+Martti Ahtisaari
+
+Economics 1982
+George J. Stigler
+
+Economics 1984
+Richard Stone
+
+Economics 2010
+Dale T. Mortensen
+
+Age 72 (16)
+Physics 1954
+Max Born
+
+Physics 1977
+Sir Nevill F. Mott
+
+Physics 1983
+William A. Fowler
+
+Physics 2000
+Herbert Kroemer
+
+Physics 2015
+Arthur B. McDonald
+
+Chemistry 1953
+Hermann Staudinger
+
+Chemistry 1969
+Odd Hassel
+
+Chemistry 2016
+Jean-Pierre Sauvage
+
+Physiology or Medicine 1992
+Edmond H. Fischer
+
+Physiology or Medicine 2008
+Harald zur Hausen
+
+Literature 1904
+José Echegaray
+
+Literature 1983
+William Golding
+
+Literature 1985
+Claude Simon
+
+Literature 1999
+Günter Grass
+
+Peace 1951
+Léon Jouhaux
+Peace 1994
+Yitzhak Rabin
+
+Age 73 (20)
+Physics 1910
+Johannes Diderik van der Waals
+
+Physics 1983
+Subramanyan Chandrasekhar
+
+Physics 2016
+J. Michael Kosterlitz
+
+Chemistry 1998
+John Pople
+
+Chemistry 2000
+Alan MacDiarmid
+
+Chemistry 2013
+Arieh Warshel
+
+Physiology or Medicine 1984
+Niels K. Jerne
+
+Literature 1960
+Saint-John Perse
+
+Literature 1989
+Camilo José Cela
+
+Literature 1996
+Wislawa Szymborska
+
+Literature 2002
+Imre Kertész
+
+Peace 1901
+Henry Dunant
+Peace 1911
+Tobias Asser
+Peace 1929
+Frank B. Kellogg
+Peace 1937
+Robert Cecil
+Peace 1953
+George C. Marshall
+Peace 1974
+Eisaku Sato
+Peace 2011
+Ellen Johnson Sirleaf
+
+Economics 1993
+Douglass C. North
+
+Economics 2006
+Edmund S. Phelps
+
+Age 74 (15)
+Physics 1989
+Norman F. Ramsey
+
+Chemistry 1950
+Otto Diels
+
+Chemistry 2016
+Sir J. Fraser Stoddart
+
+Physiology or Medicine 1992
+Edwin G. Krebs
+
+Physiology or Medicine 2003
+Paul C. Lauterbur
+
+Literature 1904
+Frédéric Mistral
+
+Literature 1919
+Carl Spitteler
+
+Literature 1974
+Eyvind Johnson
+
+Literature 1978
+Isaac Bashevis Singer
+
+Literature 2010
+Mario Vargas Llosa
+
+Peace 1907
+Ernesto Teodoro Moneta
+Peace 1945
+Cordell Hull
+Economics 1969
+Ragnar Frisch
+
+Economics 1994
+John C. Harsanyi
+
+Economics 2013
+Eugene F. Fama
+
+Age 75 (20)
+Physics 2003
+Alexei Abrikosov
+
+Chemistry 1998
+Walter Kohn
+
+Chemistry 2005
+Yves Chauvin
+
+Chemistry 2010
+Ei-ichi Negishi
+
+Physiology or Medicine 1932
+Sir Charles Sherrington
+
+Physiology or Medicine 1949
+Egas Moniz
+
+Physiology or Medicine 1974
+Albert Claude
+
+Physiology or Medicine 2000
+Paul Greengard
+
+Physiology or Medicine 2002
+Sydney Brenner
+
+Physiology or Medicine 2014
+John O'Keefe
+
+Literature 1956
+Juan Ramón Jiménez
+
+Literature 1966
+Nelly Sachs
+
+Literature 2005
+Harold Pinter
+
+Literature 2016
+Bob Dylan
+
+Peace 1903
+Randal Cremer
+Peace 1993
+Nelson Mandela
+
+Peace 2000
+Kim Dae-jung
+
+Economics 1974
+Friedrich von Hayek
+
+Economics 2002
+Vernon L. Smith
+
+Economics 2005
+Robert J. Aumann
+
+Age 76 (10)
+Physics 1989
+Wolfgang Paul
+
+Physics 1994
+Bertram N. Brockhouse
+
+Physics 2002
+Masatoshi Koshiba
+
+Physics 2009
+Charles K. Kao
+
+Physiology or Medicine 2008
+Luc Montagnier
+
+Literature 1981
+Elias Canetti
+
+Literature 1990
+Octavio Paz
+
+Literature 1998
+José Saramago
+
+Economics 1974
+Gunnar Myrdal
+
+Economics 2009
+Elinor Ostrom
+
+Age 77 (13)
+Physics 1995
+Frederick Reines
+
+Physics 2000
+Jack Kilby
+
+Chemistry 2015
+Tomas Lindahl
+
+Physiology or Medicine 1980
+George D. Snell
+
+Physiology or Medicine 1986
+Rita Levi-Montalcini
+
+Physiology or Medicine 1995
+Edward B. Lewis
+
+Physiology or Medicine 2000
+Arvid Carlsson
+
+Literature 1921
+Anatole France
+
+Literature 1988
+Naguib Mahfouz
+
+Peace 1952
+Albert Schweitzer
+Economics 1979
+Theodore W. Schultz
+
+Economics 1988
+Maurice Allais
+
+Economics 2009
+Oliver E. Williamson
+
+Age 78 (8)
+Physics 1977
+John H. van Vleck
+
+Chemistry 2004
+Irwin Rose
+
+Literature 1947
+André Gide
+
+Literature 1950
+Bertrand Russell
+
+Literature 1966
+Shmuel Agnon
+
+Peace 2002
+Jimmy Carter
+
+Economics 1977
+Bertil Ohlin
+
+Economics 1989
+Trygve Haavelmo
+
+Age 79 (11)
+Physics 1994
+Clifford G. Shull
+
+Physics 2009
+George E. Smith
+
+Chemistry 1997
+Paul D. Boyer
+
+Chemistry 1997
+Jens C. Skou
+
+Chemistry 2010
+Richard F. Heck
+
+Physiology or Medicine 2012
+Sir John B. Gurdon
+
+Literature 1953
+Winston Churchill
+
+Literature 1975
+Eugenio Montale
+
+Literature 1977
+Vicente Aleixandre
+
+Peace 1901
+Frédéric Passy
+Peace 1946
+Emily Greene Balch
+Age 80 (9)
+Physics 1986
+Ernst Ruska
+
+Physics 2005
+Roy J. Glauber
+
+Chemistry 2008
+Osamu Shimomura
+
+Chemistry 2010
+Akira Suzuki
+
+Physiology or Medicine 2015
+Satoshi Ōmura
+
+Literature 1910
+Paul Heyse
+
+Literature 2011
+Tomas Tranströmer
+
+Peace 1909
+Auguste Beernaert
+Peace 1982
+Alva Myrdal
+Age 81 (5)
+Physics 2013
+François Englert
+
+Physiology or Medicine 1983
+Barbara McClintock
+
+Peace 1946
+John R. Mott
+Peace 1968
+René Cassin
+Economics 1991
+Ronald H. Coase
+
+Age 82 (6)
+Physics 2016
+David J. Thouless
+
+Chemistry 1979
+Georg Wittig
+
+Physiology or Medicine 1998
+Robert F. Furchgott
+
+Physiology or Medicine 2007
+Oliver Smithies
+
+Literature 2013
+Alice Munro
+
+Economics 1996
+William Vickrey
+
+Age 83 (4)
+Chemistry 1987
+Charles J. Pedersen
+
+Chemistry 2013
+Martin Karplus
+
+Physiology or Medicine 1988
+George H. Hitchings
+
+Literature 1984
+Jaroslav Seifert
+
+Age 84 (4)
+Physics 1978
+Pyotr Kapitsa
+
+Physics 2013
+Peter Higgs
+
+Chemistry 2001
+William Knowles
+
+Economics 2005
+Thomas C. Schelling
+
+Age 85 (7)
+Physics 2009
+Willard S. Boyle
+
+Physics 2014
+Isamu Akasaki
+
+Chemistry 2002
+John B. Fenn
+
+Physiology or Medicine 2010
+Robert G. Edwards
+
+Physiology or Medicine 2015
+William C. Campbell
+
+Physiology or Medicine 2015
+Youyou Tu
+
+Literature 1902
+Theodor Mommsen
+
+Age 86 (1)
+Peace 1927
+Ferdinand Buisson
+Age 87 (5)
+Physics 2003
+Vitaly L. Ginzburg
+
+Physics 2008
+Yoichiro Nambu
+
+Physiology or Medicine 1966
+Peyton Rous
+
+Physiology or Medicine 1973
+Karl von Frisch
+
+Peace 1995
+Joseph Rotblat
+
+Age 88 (2)
+Physics 2002
+Raymond Davis Jr.
+
+Literature 2007
+Doris Lessing
+
+Age 89 (1)
+Economics 2012
+Lloyd S. Shapley
+
+Age 90 (1)
+Economics 2007
+Leonid Hurwicz
